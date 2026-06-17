@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ShipFleet.API/ShipFleet.API.csproj" />
+  <Project Path="ShipFleet.Core/ShipFleet.Core.csproj" />
+  <Project Path="ShipFleet.Infrastructure/ShipFleet.Infrastructure.csproj" />
+</Solution>

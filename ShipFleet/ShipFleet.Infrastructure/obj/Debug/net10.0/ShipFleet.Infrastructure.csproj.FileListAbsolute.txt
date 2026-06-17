@@ -1,0 +1,17 @@
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\bin\Debug\net10.0\ShipFleet.Infrastructure.deps.json
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\bin\Debug\net10.0\ShipFleet.Infrastructure.runtimeconfig.json
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\bin\Debug\net10.0\ShipFleet.Infrastructure.dll
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\bin\Debug\net10.0\ShipFleet.Infrastructure.pdb
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\bin\Debug\net10.0\ShipFleet.Core.dll
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\bin\Debug\net10.0\ShipFleet.Core.pdb
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.csproj.AssemblyReference.cache
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.AssemblyInfoInputs.cache
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.AssemblyInfo.cs
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFlee.52674F35.Up2Date
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.dll
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\refint\ShipFleet.Infrastructure.dll
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.pdb
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ShipFleet.Infrastructure.genruntimeconfig.cache
+C:\ssuet assignments\ship fleet management system\ShipFleet\ShipFleet.Infrastructure\obj\Debug\net10.0\ref\ShipFleet.Infrastructure.dll
